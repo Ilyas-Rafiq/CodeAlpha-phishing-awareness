@@ -69,10 +69,3 @@ Open `phishing_awareness_training.html` directly in any browser — no server ne
 **Ilyas Rafiq**  
 CodeAlpha Cybersecurity Internship  
 [GitHub](https://github.com/Ilyas-Rafiq)
-
----
-
-## Tags
-
-`cybersecurity` `phishing` `security-awareness` `html` `javascript` 
-`social-engineering` `codealpha` `internship`
